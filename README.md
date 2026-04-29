@@ -1,5 +1,5 @@
 ```markdown
-# Viktor David — Trading Systems Architect
+# Viktor — Trading Systems Architect
 
 > Domain expert + software architect.
 > 15+ yrs in crypto and forex markets.
