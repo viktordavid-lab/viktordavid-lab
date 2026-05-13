@@ -6,8 +6,9 @@
 > Building production trading systems with AI-augmented development workflow.
 
 🌐 **Live demo:** [inspiruj.online](https://inspiruj.online)
-📧 **Contact:** viktordavid1@gmail.com
-💼 **LinkedIn:** [viktor-david](https://linkedin.com/in/...)
+🌐 **Live demo:** [meetslot.online](https://meetslot.online)
+📧 **Contact:** viktordavid1 @ gmail.com
+💼 **LinkedIn:** [viktor-david](https://www.linkedin.com/in/viktor-david-wictorius/)
 
 ---
 
